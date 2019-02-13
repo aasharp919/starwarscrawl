@@ -1,0 +1,75 @@
+@charset "UTF-8";
+.logo {
+}
+.intro {
+    width: 100%;
+    height: 1000em;
+    position: absolute;
+    bottom: 0px;
+}
+.intro p {
+}
+.logo {
+}
+.logo {
+}
+.logo {
+}
+.logo {
+}
+body p {
+}
+body p {
+}
+body p {
+}
+body p {
+}
+body p {
+}
+body p {
+}
+.logo {
+    text-align: center;
+    position: relative;
+    top: 8vh;
+    margin-bottom: 300px;
+}
+.text {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    opacity: 0;
+    color: #e5b13a;
+}
+body {
+    background-image: url(stars.png);
+    background-color: #000;
+    background-attachment: fixed;
+    color: #e5b13a;
+    overflow-y: hidden;
+    font-family: Gothic, Helvetica New;
+}
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 60px;
+    color: #e5b13a;
+}
+h3 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 30px;
+    color: #e5b13a;
+}
+p {
+    text-align: justify;
+    width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    color: #e5b13a;
+}
